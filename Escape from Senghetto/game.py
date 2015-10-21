@@ -14,20 +14,6 @@ bathroom_locked = True
 customer = False
 
 
-
-#changes: inventory 6, clothes inventory, check self
-""" nEw changes , move function, Line 342-348, bathroom lock
-bathroom_locked line 7
-cook bacon function line 26
-done bathroom lock
-bacon trick
-"""
-
-""" To do: 
-1) Endings
-2) sell laptop
-"""
-
 def sell_laptop():
     global customer
     global money
