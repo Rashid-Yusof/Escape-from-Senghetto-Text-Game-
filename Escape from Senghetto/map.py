@@ -7,9 +7,7 @@ room_bedroom = {
     """Pizza boxes, alcohol containers and numerous variants of 
     mixer lay scattered around the floor; among the mess are 
     several pairs of used boxers, none of them yours. This is 
-    not your room. There is a chest of drawers beside the bed,
-    a large wardrobe standing against the northern wall and a tall
-    mirror opposite. The room contains a door.
+    not your room. The room contains a door.
     """,
 
     "exits": {"south": "Hall"},

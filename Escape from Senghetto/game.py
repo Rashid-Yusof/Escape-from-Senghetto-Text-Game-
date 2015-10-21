@@ -21,7 +21,7 @@ def sell_laptop():
         money += 100
         customer = False
         inventory.remove(item_laptop)
-        print("\nYou have sold the laptop and you have £"+str(money)+" now. You're not sure how you're going to do your assignments now. But hey wands right? totally worth it. (What are you doing with your life?)\n")
+        print("\nYou have sold the laptop and you have £"+str(money)+" now. You're not sure how you're going to do your assignments now. But hey this cash could come in handy right? totally worth it. (What are you doing with your life?)\n")
 
 def print_shop_menu():
     print("\nItem\tPrice")
@@ -222,8 +222,8 @@ def print_room(room):
         print(room["description"])
         print('')
     if current_room == rooms['Kitchen'] and customer == True:
-        print ("There is a strange looking man wearing a towel happily eating bacon in the corner.\
- He asks you do you know where to buy a cheap laptop?")
+        print ("There is a strange looking damp man wearing a towel happily eating bacon in the corner.\
+ He asks if you know where to buy a cheap laptop?")
         print ()
     print_room_items(room)
 
@@ -349,7 +349,7 @@ def execute_beat():
         current_room = rooms["Crime Scene(Alley)"]
         return True
     else:
-        print("You feel yourself feel weak as the beggar beats you to the floor. ")
+        print("You feel weak as the beggar beats you to the floor. ")
         print("You have been bested by Senghetto")
         return False
         

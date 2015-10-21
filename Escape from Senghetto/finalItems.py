@@ -8,18 +8,19 @@ item_pen = 	{"id" : "pen" ,
 			"damage_player": 10,
                  "usage" : False,
                  "room_to_use" : "",
-                 "battle_effect" : "You throw the pen! The barrel breaks and stains the beggar's shirt!\
- The beggar is enraged and stains you back with nearby sludge!"
+                 "battle_effect" : "You throw the pen! The ink leaks out and stains the beggar's shirt!\
+ The beggar is enraged and slaps you in the face!"
 			}
 
 item_plastic_knife = 	{"id" : "knife" , 
 						"name" : "a plastic knife", 
 						"description": "A leftover plastic knife from a late night cheesy chip.",
-						"damage_beggar": 30, 
+						"damage_beggar": 5, 
 						"damage_player": 10,
                                   "usage" : False,
                                   "room_to_use" : "",
-                                  "battle_effect" : "You use the plastic knife! But, it breaks due to poor quality..."
+                                  "battle_effect" : "You try and cut the begger with the plastic knife!\
+                                  But, it breaks due to poor quality... The beggar slaps you in the face."
 						}
 
 item_toilet_roll = 	{"id" : "roll" , 
@@ -29,7 +30,8 @@ item_toilet_roll = 	{"id" : "roll" ,
 					"damage_player": 10,
                              "usage" : False,
                              "room_to_use" : "",
-                             "battle_effect" : "You throw the toilet roll! The sandpaper texture makes the beggar's skin very irritated."
+                             "battle_effect" : "You throw the toilet roll! The sandpaper texture irritates the \
+                             beggers skin. He slaps you in the face."
 					}
 
 item_frying_pan = 	{"id" : "pan", 
@@ -39,7 +41,8 @@ item_frying_pan = 	{"id" : "pan",
 					"damage_player": 5,
                              "usage" : False,
                              "room_to_use" : "Kitchen",
-                             "battle_effect" : "You swing the pan! Ok now that's just heartless of you."
+                             "battle_effect" : "You swing the pan at the beggars head! Direct hit, you gave\
+                             him a real shiner."
 					}
 
 item_bulb = 	{"id" : "bulb" , 
@@ -49,7 +52,7 @@ item_bulb = 	{"id" : "bulb" ,
 				"damage_player": 30,
                        "usage" : False,
                        "room_to_use" : "",
-                       "battle_effect" : "You strike with the glass bulb! The bulb shatters in your hand and the glass gets all over...\
+                       "battle_effect" : "You strike with the glass bulb! The bulb shatters in your hand and you cut yourself...\
  Clearly this was not a bright idea."
 				}
 
@@ -77,21 +80,23 @@ item_belt = 	{ "id" : "belt" ,
 item_stone = 	{ "id" : "stone" , 
 				"name" : "a stone", 
 				"description": "Wow man, that's totally a stone dude.",
-				"damage_beggar": 10, 
+				"damage_beggar": 20, 
 				"damage_player": 5,
                        "usage" : False,
                        "room_to_use" : "",
-                       "battle_effect" : "You throw the stone! It hits pretty HARD. HAHAHAHahahaha..ha.. *sigh*"
+                       "battle_effect" : "You throw the stone! It hits pretty HARD. HAHAHAHahahaha..ha..\
+                       no seriously it hurts him a lot."
 				}
 
 item_pumpkin = 	{ "id" : "pumpkin" , 
 				"name" : "a pumpkin",
 				"description": "A pumpkin, there seems to be some sort of phallic symbol carved into the side.", 
 				"damage_beggar": 5, 
-				"damage_player": 5,
+				"damage_player": 25,
                        "usage" : False,
                        "room_to_use" : "",
-                       "battle_effect" : "You use the pumpkin! The beggar is confused by the meaning of the phallic symbol on the pumpkin.."
+                       "battle_effect" : "You lift the pumpkin in the air to hit the beggar and you drop it on your head.\
+                       Whilst you are disoriented he punches you in the ribs. Who brings a pumpkin to a beggar fight?"
 				}
 
 item_phone = 	{ "id" : "phone" , 
@@ -112,8 +117,9 @@ item_wand = 	{ "id" : "wand" ,
 				"damage_player": 5,
                        "usage" : False,
                        "room_to_use" : "",
-                       "battle_effect" : "You wave the wand and believe in the MAGIC like Peter Pan says so! Unexpectedly, the wand starts glowing! You start chanting random spells... \
- 'Abracadabra!', 'Bippity Boppity Boo!'. Light englufs the area!"
+                       "battle_effect" : "You brandish the wand in front of you. 'Stay back!' you warn the beggar.\
+                       The beggar laughs at the ridiculous sight, a young adult threatening him with a stick. He advances\
+                       towards you. You shout 'Avada Kedavra', green light fills the alley. The beggar crumples to the ground."
 				}
 
 item_bacon = 	{ "id" : "bacon" , 

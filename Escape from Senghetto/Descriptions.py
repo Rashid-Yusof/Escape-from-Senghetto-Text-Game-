@@ -71,9 +71,10 @@ shouts "oi give me £1.50 mate". You are surprised at the specificity of the hom
     """\n 
 Your eyes flutter open, and your intense hangover causes you to groan \
 and clutch the sides of your head in pain. You look about and see a room foreign \
-to your eyes; you see that you are alone, and whatever you did last night left \
-the strangers room a mess. You pull back the covers of the bed to discover you \
-are fully without clothes, and decide that you must return home as quickly as possible."""
+to your eyes; you realise you are alone, and whatever you did last night left \
+the strange room a mess. You pull back the covers of the bed to discover you \
+are completely naked. You must return home soon, you must find your clothes and \
+you must get out alive!"""
                             
 }
                             
